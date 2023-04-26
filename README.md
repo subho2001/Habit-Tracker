@@ -33,15 +33,11 @@ After reaching the project directory you have to run the following the command.
   ![HomeHabitTracker](https://github.com/subho2001/Habit-Tracker/blob/main/assets/images/home.png)
   
   # Sign-Up
-  ![sign_upHabitTracker](https://user-images.githubusercontent.com/66240716/230736787-66ba8359-495a-4bb2-ada0-fb163c5ebe23.png)
+  ![sign_upHabitTracker](https://github.com/subho2001/Habit-Tracker/blob/main/assets/images/signup.png)
 
   # Sign-In
   ![sign_inHabitTracker](https://github.com/subho2001/Habit-Tracker/blob/main/assets/images/singin.png)
   
-  # Daily View
-  ![dailyView](https://user-images.githubusercontent.com/66240716/230767839-14cbc028-ffe8-426a-b645-94b106ea83cc.png)
-  
-
 ### Folder Structure
 
 ```
